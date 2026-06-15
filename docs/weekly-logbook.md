@@ -18,8 +18,10 @@
 
 ### Evidence of Work
 - GitHub repository https://github.com/RangoTheGoat/ICT105-3idiots-MVP.git
-- Screenshot: see screenshots/ (folder structure and Issues)
-- File created: README.md, docs/team-profile.md, docs/idea-log.md, docs/problem-notes.md, docs/weekly-logbook.md
+- Screenshot: <img width="1710" height="1112" alt="Screenshot 2026-06-15 at 22 35 45" src="https://github.com/user-attachments/assets/e9354ff1-a5b4-4e28-86c4-5f9e95a443bc" />
+<img width="1710" height="1112" alt="Screenshot 2026-06-15 at 22 17 23" src="https://github.com/user-attachments/assets/d3f03bee-d296-44bc-bf2a-431616978e81" />
+
+- File created: README.md, docs/team-profile.md, docs/idea-log.md, docs/weekly-logbook.md
 - Commit link: https://github.com/RangoTheGoat/ICT105-3idiots-MVP/commits?author=RangoTheGoat
 
 ### Decision Made This Week
