@@ -20,7 +20,7 @@
 - GitHub repository https://github.com/RangoTheGoat/ICT105-3idiots-MVP.git
 - Screenshot: see screenshots/ (folder structure and Issues)
 - File created: README.md, docs/team-profile.md, docs/idea-log.md, docs/problem-notes.md, docs/weekly-logbook.md
-- Commit link: 
+- Commit link: 75c9452fec6ca6cdd68b1f0977d9add1a6c1430f
 
 ### Decision Made This Week
 We set the Student Apartment Finder Chatbot as our current front-runner, while keeping the AI Assistant for IT Students and the Campus Student Marketplace as alternatives. The final choice will be made in Lab 2 after opportunity scanning.
