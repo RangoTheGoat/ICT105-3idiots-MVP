@@ -3,38 +3,27 @@
 ## Lab 1: Lab Setup and IT Venture Repository
 
 ### What We Completed
-
-1. Created the GitHub repository.
-2. Created the required project folder structure.
-3. Prepared the README file, team profile, and initial idea log.
+1. Formed the team, assigned the five roles, and agreed on a working agreement.
+2. Created the GitHub repository with the full required folder structure, README, and `.gitignore`.
+3. Documented three initial IT venture ideas, problem notes, the Week 1 Issues, and made meaningful commits.
 
 ### What We Learned
-
-1. How to organize a professional GitHub repository.
-2. The importance of documentation in entrepreneurship projects.
-3. How to generate venture ideas using a problem-user-solution approach.
+1. How to structure a professional GitHub repository and write a clear README in Markdown.
+2. How to use GitHub Issues and commit messages as evidence of project progress.
+3. That a good venture idea starts from a real problem and a specific user, not from technology hype.
 
 ### Problems or Difficulties
-
-1. Limited experience using GitHub and Markdown.
-2. Difficulty selecting the most suitable venture idea for the semester project.
+1. Getting used to GitHub's flow (folders only appear once a file is created inside them).
+2. Comparing three different ideas — we set the Apartment Finder as the current front-runner but kept the others open.
 
 ### Evidence of Work
-
-* GitHub repository link: (Insert repository link)
-* Screenshot: Repository structure and GitHub Issues
-* File created: README.md, team-profile.md, idea-log.md, weekly-logbook.md
-* Commit link: (Insert commit link)
+- GitHub repository link: https://github.com/RangoTheGoat/ICT105-3idiots-MVP
+- Screenshot: see screenshots/ (folder structure and Issues)
+- File created: README.md, docs/team-profile.md, docs/idea-log.md, docs/problem-notes.md, docs/weekly-logbook.md
+- Commit link: [https://github.com/RangoTheGoat/ICT105-3idiots-MVP/commit/d4a7bfbed5f9748806c472e95cea62eaaf52aa6d]
 
 ### Decision Made This Week
-
-The team decided to focus on the Smart Campus Lost-and-Found System as the primary venture concept because it addresses a real student problem and is feasible to prototype within the semester.
+We set the Student Apartment Finder Chatbot as our current front-runner, while keeping the AI Assistant for IT Students and the Campus Student Marketplace as alternatives. The final choice will be made in Lab 2 after opportunity scanning.
 
 ### Plan for Next Week
-
-1. Conduct opportunity scanning.
-2. Gather initial user feedback.
-3. Identify target users and pain points.
-4. Validate the selected problem area.
-5. Refine the venture concept based on evidence.
-
+In Lab 2 we will run opportunity scanning on the three ideas, validate the problems through user feedback, and evaluate feasibility before selecting one to develop.
