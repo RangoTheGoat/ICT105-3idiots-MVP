@@ -17,10 +17,10 @@
 2. Comparing three different ideas — we set the Apartment Finder as the current front-runner but kept the others open.
 
 ### Evidence of Work
-- GitHub repository link: https://github.com/RangoTheGoat/ICT105-3idiots-MVP
+- GitHub repository https://github.com/RangoTheGoat/ICT105-3idiots-MVP.git
 - Screenshot: see screenshots/ (folder structure and Issues)
 - File created: README.md, docs/team-profile.md, docs/idea-log.md, docs/problem-notes.md, docs/weekly-logbook.md
-- Commit link: [https://github.com/RangoTheGoat/ICT105-3idiots-MVP/commit/d4a7bfbed5f9748806c472e95cea62eaaf52aa6d]
+- Commit link: 
 
 ### Decision Made This Week
 We set the Student Apartment Finder Chatbot as our current front-runner, while keeping the AI Assistant for IT Students and the Campus Student Marketplace as alternatives. The final choice will be made in Lab 2 after opportunity scanning.
