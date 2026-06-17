@@ -59,7 +59,8 @@ AI Assistant Tool for IT Students was rejected as the final project because it r
 ### Evidence of Work
 
 * Opportunity scan file: /docs/opportunity-scan.md
-* NUF scoring file: [opportunity-scoring (1).xlsx](https://github.com/user-attachments/files/29037921/opportunity-scoring.1.xlsx)
+* NUF scoring file:[opportunity-scoring.xlsx](https://github.com/user-attachments/files/29057250/opportunity-scoring.xlsx)
+
 
 * Selected opportunity file: /docs/selected-opportunity.md
 * GitHub issue screenshot: <img width="1710" height="1112" alt="Screenshot 2026-06-17 at 15 12 09" src="https://github.com/user-attachments/assets/1f90f071-5553-4209-85d2-375046f20dc5" />
