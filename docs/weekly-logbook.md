@@ -62,7 +62,8 @@ AI Assistant Tool for IT Students was rejected as the final project because it r
 * NUF scoring file: [opportunity-scoring (1).xlsx](https://github.com/user-attachments/files/29037921/opportunity-scoring.1.xlsx)
 
 * Selected opportunity file: /docs/selected-opportunity.md
-* GitHub issue screenshot: Attached in repository
+* GitHub issue screenshot: <img width="1710" height="1112" alt="Screenshot 2026-06-17 at 15 12 09" src="https://github.com/user-attachments/assets/1f90f071-5553-4209-85d2-375046f20dc5" />
+
 * Commit link: https://github.com/RangoTheGoat/ICT105-3idiots-MVP/commits/main/
   
 
