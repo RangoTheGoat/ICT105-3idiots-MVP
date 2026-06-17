@@ -1,52 +1,73 @@
-# Selected Semester Project Opportunity
+# Student Apartment Finder Platform
 
-## Selected Project Title
+ICT105 IT Startup MVP Project — Team 3idiots
 
-Student Apartment Finder Platform
+## Course Information
 
-## Target User
+- **Course Code:** ICT105
+- **Course Name:** Fundamental Technology Entrepreneurship
+- **Instructor:** Dr. Herison Surbakti
+- **Project Type:** 14-Labs Continuous IT Startup MVP Development
 
-The target users are university students who are looking for off-campus accommodation, especially first-year students, international students, and students who are unfamiliar with housing options near the university.
+## Team Name
 
-## Problem Statement
+**3idiots**
 
-Students often experience difficulty finding suitable apartments near campus because rental information is scattered across Facebook groups, rental agents, websites, and word-of-mouth recommendations. Comparing prices, locations, facilities, and availability requires significant time and effort, making the apartment search process frustrating and inefficient.
+## Team Members and Roles
 
-## Current Alternative
+| Name | Role | Responsibility |
+|------|------|----------------|
+| Phyo Wai Aung | Product Lead + Validation Lead | Define problem, target users, and project direction; manage validation evidence |
+| Kyaw Linn | Technical Lead + UX/UI Lead | Manage repository and prototype development; design interface and user flow |
+| Arkar Kyaw Oo | Documentation Lead | Maintain README, weekly logbook, reports, and final submission |
 
-Students currently rely on Facebook groups, property agents, recommendations from friends or seniors, and general rental websites to search for apartments. These methods often provide incomplete, outdated, or unorganized information, making it difficult for students to make informed decisions.
+## Initial Problem Area
 
-## Proposed IT Solution
+Students — especially new and international students — struggle to find available apartments near the university. Listings are scattered across Facebook groups, agents, and word of mouth, often with unclear prices, room types, and distances from campus, which makes searching slow and stressful.
 
-The team will develop a Student Apartment Finder Platform that allows students to search and compare apartment listings based on criteria such as rental price, distance from campus, room type, and available facilities. The platform will provide a centralized database of apartment information, helping students find suitable accommodation more efficiently.
+## Target Users
 
-## Why This Opportunity Was Selected
+- University students looking for off-campus housing near campus
+- New and international students unfamiliar with the area
+- Students changing accommodation between semesters
 
-This opportunity received the highest NUF (New, Useful, Feasible) score among the proposed ideas. It addresses a real problem experienced by many students, provides clear value to users, and can be realistically developed within the semester using the team's current technical skills and available tools. The project also offers a clearly defined target user group, making it easier to conduct customer validation and collect feedback during future lab activities.
+## Initial IT Venture Direction
 
-## Why This Is Feasible Without IoT or Advanced Cybersecurity
+Our team's front-runner is a **Student Apartment Finder Platform** where students ask for available apartments by budget, distance to campus, and room type, and instantly receive matching listings with details and contact information. This is one of three ideas in `docs/idea-log.md`; the final direction will be confirmed in Lab 2 after opportunity scanning.
 
-The project can be developed as a web-based platform using standard web development technologies such as HTML, CSS, JavaScript, and a simple database. It does not require any IoT hardware, sensors, or advanced cybersecurity implementation. The MVP can be simulated using sample apartment data and basic search functionality, making it achievable within the semester timeline.
+## Technology Possibility
 
-## Possible MVP Type
+Possible technologies:
 
-Simple Web App Prototype
+- Chat interface (web or messaging)
+- Web application
+- Database of apartment listings
+- AI / natural-language understanding for queries
+- Map and distance-to-campus feature
+- Search and filter functionality
 
-## Initial Validation Plan for Lab 03
+## Repository Structure
 
-### Who will the team ask?
+| Folder | Purpose |
+|--------|---------|
+| `docs/` | Reports, team profile, idea log, weekly logbook, and problem notes |
+| `prototype/` | Source code and prototype files |
+| `data/` | Survey responses and validation data |
+| `finance/` | Financial assumptions and business model |
+| `diagrams/` | User flow and system architecture |
+| `screenshots/` | Project progress evidence |
+| `pitch/` | Presentation and final pitch materials |
 
-The team will interview university students, particularly first-year students, international students, and students currently living off-campus.
+## Weekly Progress Log
 
-### What evidence will the team collect?
+| Lab | Main Activity | Output | Status |
+|-----|---------------|--------|--------|
+| Lab 1 | Lab setup and idea log | Repository, team profile, initial idea log, weekly logbook | Completed |
 
-The team will collect information about:
+## Current Status
 
-* How students currently search for apartments.
-* Problems they face during the apartment search process.
-* The most important factors when choosing accommodation.
-* Their willingness to use a centralized apartment finder platform.
+The team has created the GitHub repository with the full required folder structure. We prepared the initial project documentation — README, team profile, idea log, problem notes, and weekly logbook — and set the Student Apartment Finder Chatbot as our current front-runner among three candidate ideas for further evaluation.
 
-### What question must be answered first?
+## Next Step
 
-Do university students experience enough difficulty in finding suitable apartments near campus to justify using a dedicated apartment finder platform?
+In Lab 2, the team will conduct opportunity scanning, validate the problem through user feedback, identify target users in more detail, and evaluate the feasibility of the proposed solution before selecting the final direction.
